@@ -1,3 +1,8 @@
+
+
+<img width="739" height="415" alt="images" src="https://github.com/user-attachments/assets/0df27f5a-f614-403c-bba4-bccd9b0389af" />
+
+
 # NASA-Kepler-Exoplanet-Detector-Data-Analysis-Machine-Learning
 En base a un dataset proporcionado por el telescopio Kepler de la NASA, analizo los datos recogidos para entrenar un modelo de Machine Learning con Random Forest y Gradient Boosting con el objetivo de clasificar candidatos a exoplaneta como confirmados o falsos positivos.
 
